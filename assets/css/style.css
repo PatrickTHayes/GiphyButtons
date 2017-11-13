@@ -1,0 +1,12 @@
+#buttonsGoHere {
+    margin: 25px;
+}
+
+.item {
+    float: left;
+    margin: 10px;
+}
+
+button {
+    font-size: 20px;
+}
